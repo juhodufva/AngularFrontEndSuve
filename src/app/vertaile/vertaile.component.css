@@ -1,0 +1,21 @@
+
+body {
+
+    background-image: url('/assets/suveteat.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style:italic;
+    font-size:small;  
+}
+mat-grid-tile {
+  position: absolute;
+    top: 50%;
+    left: 35%;
+    background: rgb(102, 97, 97);
+    border-radius: 1px #cbb26c;
+  }
+  .ylarivi{
+    background-color:rgb(156, 3, 3) ;
+  }
